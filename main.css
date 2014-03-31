@@ -6,26 +6,27 @@
 	width: 30em;
 	text-align: center;
 	font-size:25px;
-	margin-top:40px;
+	margin-top:20px;
+	margin-bottom:20px;
 	color:#FFFFFF;
     }
 
 #parameters{
     height: 1.5em;
-	width:50em;
+	width:51.25em;
 	background-color:#FFFFFF;
-	border:1px solid black;
+	border:2px solid black;
 	font-size:25px;
 	text-align: center;
     }
 	
 #window{
-        border: 2px solid black;
-		margin-top:5px;
-	    width:80em;
-		height:30em;
-		background-color:#FFFFFF;
-        }
+    border: 2px solid black;
+	margin-top:5px;
+	width:80em;
+	height:30em;
+	background-color:#FFFFFF;
+    }
 	
 	
 body{
@@ -35,4 +36,15 @@ body{
 a{
     text-decoration: none;
     }	
+
+table{
+    width: 100%;
+	}
+
+td, th{
+	border:1px solid black;
+	}	
+
+
+
 	
